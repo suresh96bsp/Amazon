@@ -12,9 +12,9 @@ test ('Frames handling',async({page})=>{
 })
 
 //Nested Frames
-import { test } from '@playwright/test';
-test ('Nested Frames handling',async({page})=>{
-   await page.goto('https://www.hyrtutorials.com/p/frames-practice.html');
+// import { test } from '@playwright/test';
+// test ('Nested Frames handling',async({page})=>{
+//    await page.goto('https://www.hyrtutorials.com/p/frames-practice.html');
    
 
 
